@@ -1,0 +1,38 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Wolf",
+        "biome": "Forests",
+        "passive": false,
+        "imageName": "wolf"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Cow",
+        "biome": "Plains",
+        "passive": true,
+        "imageName": "cow"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Villager",
+        "biome": "Village",
+        "passive": true,
+        "imageName": "villager"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Chicken",
+        "biome": "Plains",
+        "passive": true,
+        "imageName": "chicken"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Steve",
+        "biome": "Everywhere",
+        "passive": true,
+        "imageName": "steve"
+    }
+    
+]
